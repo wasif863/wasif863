@@ -2,17 +2,11 @@
 <h1 align="left">#!/Wasif</h1>
 
 <p align="left">
-  Cyber Security Engineering Student<br/>
   Offensive Security | MalDev | Windows Internals| Red Teaming
 </p>
 
 ### About
-
-I am a Cyber Security Engineering student interested in operating systems, low-level programming, malware development, and offensive security research.
-
-My primary interests include Windows internals, endpoint security, adversary simulation, and developing security tools.
-
-Currently exploring Windows API development, malware engineering, and endpoint detection mechanisms.
+I build really cool stuff (^_^)
 
 ### Programming Languages
 
