@@ -63,17 +63,22 @@ Currently exploring Windows API development, malware engineering, and endpoint d
 - Capture The Flag (CTF)
 
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0D0B0C?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0B0C?style=flat-square&logo=linkedin&logoColor=A92735" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:abdullahawasif036@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D0B0C?style=flat-square&logo=gmail&logoColor=A92735" alt="Gmail"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/YOUR_USERNAME">
+        <img src="https://img.shields.io/badge/GitHub-0D0B0C?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/YOUR_USERNAME">
+        <img src="https://img.shields.io/badge/LinkedIn-0D0B0C?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@abdullahawasif036">
+        <img src="https://img.shields.io/badge/Medium-0D0B0C?style=flat-square&logo=medium&logoColor=FFFFFF" alt="Medium">
+      </a>
+    </td>
+</table>
 
